@@ -1,1 +1,0 @@
-getgenv().SCRIPT_ID="tCjvAARdZJ9wlaiW";loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/5bcf3fe96a7f433777e8ee45b6aa0bd5.lua"))()
